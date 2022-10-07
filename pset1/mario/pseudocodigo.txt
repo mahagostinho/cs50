@@ -1,0 +1,4 @@
+1 - Solicitar ao usuário a altura;
+2 - Verificar se a altura está entre os inteiros 1 e 8;
+3 - Se não estiver dentro do intervalo, voltar ao passo 1;
+4 - Imprimir a quantidade de # de acordo com altura.

@@ -1,0 +1,8 @@
+Pseudocódigo
+1 - Pedir ao usuário inserir o valor devido;
+2 - Verficar se o valor não é negativo;
+3 - Caso o valor inserido seja negativo voltar ao passo 1;
+4 - Converter o valor decimal em inteiro;
+5 - Subtrair o valor devido das moedas disponíveis: 25, 10, 5, 1 cents. Utilizar a menor quantidade de moedas;
+6 - Retornar a quantidade de moedas necessárias ao troco.
+
